@@ -1,0 +1,15 @@
+Classification desdossiers médicaux parNLP
+
+La classification des dossiers médicaux à l’aide du traitement du langage naturel
+(NLP) a pour objectif d’organiser et de catégoriser automatiquement et
+précisément les informations textuelles de nature médicale. Pour cela, les textes
+des dossiers, tels que les rapports cliniques ou les notes des médecins, sont
+d’abord transformés en vecteurs numériques grâce à un embedding, une
+technique qui capture la signification sémantique des mots et des phrases dans
+un espace vectoriel. Une fois les vecteurs obtenus, un classifieur, tel qu’un SVM
+(Support Vector Machine) ou un DNN (Deep Neural Network), est utilisé pour
+attribuer chaque dossier à une classe médicale spécifique (par exemple,
+cardiologie, neurologie, etc.). Ce projet consiste à sélectionner un classifieur
+adapté et à l’implémenter. Le choix du classifieur dépend de la complexité des
+données ainsi que des résultats attendus en termes de précision et de
+performance.
