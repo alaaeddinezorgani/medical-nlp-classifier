@@ -1,4 +1,4 @@
-Classification desdossiers médicaux parNLP
+Classification des dossiers médicaux par NLP
 
 La classification des dossiers médicaux à l’aide du traitement du langage naturel
 (NLP) a pour objectif d’organiser et de catégoriser automatiquement et
